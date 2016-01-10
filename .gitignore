@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+test.js
+tokens.sh
+.peers
+.devices
+creds.js
+
